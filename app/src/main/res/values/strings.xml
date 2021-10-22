@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mem\'s</string>
+    <string name="title_text">Memory. Treasure.</string>
+    <string name="greatful_text">What is your best memory of today?</string>
+    <string name="get_started_text">Get Started!</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">Or</string>
+    <string name="create_text">Create Account</string>
+    <string name="username_hint">Username</string>
+    <string name="save_button">Save</string>
+    <string name="title_hint">Title</string>
+    <string name="today_textview_1">Today</string>
+    <string name="gina_textview_1">Gina</string>
+    <string name="your_thoughts_hint">Your Memories</string>
+    <string name="todo_cd">TODO</string>
+    <string name="menu_title">Add Thoughts</string>
+    <string name="signout_text">Signout</string>
+</resources>
